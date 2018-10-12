@@ -1,0 +1,23 @@
+#messageArea {
+  margin-top: 5%;
+  width: 50%;
+  resize: none;
+  border: solid grey 2px;
+  margin-bottom: 2%;
+  text-align: center;
+}
+
+.formPost{
+  margin-left: 30%;
+}
+
+#comentarios {
+  width: 50%;
+}
+
+#btnPost {
+  margin-left: 80%;
+  background-color: black;
+  color: #FAFAFA;
+  border: black;
+}
